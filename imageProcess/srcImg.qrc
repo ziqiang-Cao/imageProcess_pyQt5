@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/正方形.png</file>
+    <file>icon/打开.png</file>
+    <file>icon/dog.png</file>
+    <file>icon/logo.png</file>
+    <file>icon/关闭.png</file>
+    <file>icon/还原.png</file>
+    <file>icon/箭头_列表收起.png</file>
+    <file>icon/箭头_列表展开.png</file>
+    <file>icon/最大化.png</file>
+    <file>icon/最小化.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>img/background.jpg</file>
+  </qresource>
+</RCC>
